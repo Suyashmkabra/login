@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "140100000670",
+    "project_id": "kazatest-666e9",
+    "storage_bucket": "kazatest-666e9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:140100000670:android:8429fec23db424e52d148f",
+        "android_client_info": {
+          "package_name": "com.example.kazatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "140100000670-fqn75e07a3evcohcm40ls45mqs4vp196.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlDrZ4I3pwRgeYfc68mF3RR_U2VQfwUa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "140100000670-fqn75e07a3evcohcm40ls45mqs4vp196.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "140100000670-g0ubulhkk89371ijklog2dbtb56adsar.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.kazatest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
